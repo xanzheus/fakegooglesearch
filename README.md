@@ -2,4 +2,4 @@
 
 ![screenshot](/screenshot.png?raw=true)
 
-Check it out at http://fakegoogleseaech.vercel.app
+Check it out at http://fakegooglesearch.vercel.app
