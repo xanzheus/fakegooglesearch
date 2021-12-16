@@ -2,4 +2,4 @@
 
 ![screenshot](/screenshot.png?raw=true)
 
-Check it out at http://foogle.surge.sh
+Check it out at http://fakegoogleseaech.vercel.app
